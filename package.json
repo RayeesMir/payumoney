@@ -1,0 +1,30 @@
+{
+  "name": "payumoney",
+  "version": "1.0.0",
+  "description": "node Wrapper library for payumoney API",
+  "main": "payumoney.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RayeesMir/payumoney"
+  },
+  "keywords": [
+    "payumoney",
+    "payment",
+    "gateway",
+    "library",
+    "node"
+  ],
+  "author": "Mir Rayees Ahmad <mirrayees859@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RayeesMir/payumoney/issues"
+  },
+  "homepage": "https://github.com/RayeesMir/payumoney",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "request": "^2.74.0"
+  }
+}
