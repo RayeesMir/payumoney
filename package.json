@@ -23,7 +23,7 @@
     "url": "https://github.com/RayeesMir/payumoney/issues"
   },
   "homepage": "https://github.com/RayeesMir/payumoney",
-  "dependencies": {
+  "dependencies": {    
     "crypto": "0.0.3",
     "request": "^2.74.0"
   }
